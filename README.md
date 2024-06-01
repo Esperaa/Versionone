@@ -12,3 +12,8 @@ the Three-dimensional sensor(for detecting the unusual accelaration for body in 
 
 the TCP part(which helps sending the alarming message to the phones).
 
+notice：
+
+* If you see the blue light shining, it works.
+* The SIM card should be inserted correctly as the drawing showed on the part
+
