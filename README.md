@@ -17,3 +17,5 @@ notice：
 * If you see the blue light shining, it works.
 * The SIM card should be inserted correctly as the drawing showed on the part
 
+
+
